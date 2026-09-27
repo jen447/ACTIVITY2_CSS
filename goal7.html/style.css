@@ -1,0 +1,4 @@
+h1,h2{color:blueviolet}
+.box>.done{color:red}
+.list li:first-child{color:blue}
+.list .done{color:green}
